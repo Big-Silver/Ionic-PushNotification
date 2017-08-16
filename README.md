@@ -71,7 +71,7 @@ pod setup
  
 Server Code
 =================
-[Push Notifications Server code](https://github.com/aggarwalankush/push-notification-server) :tada::+1:
+[Push Notifications Server code](https://github.com/big-silver/push-notification-server) :tada::+1:
 It has server code used to send Push Notification to iOS and Android device.
 
 
